@@ -22,5 +22,9 @@
     "url": "https://github.com/samwyness/tk_blocks/issues"
   },
   "homepage": "https://github.com/samwyness/tk_blocks#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-merge": "^4.2.2"
+  }
 }
