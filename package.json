@@ -1,0 +1,26 @@
+{
+  "name": "tk_blocks",
+  "version": "1.0.0",
+  "description": "Custom Gutenberg blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samwyness/tk_blocks.git"
+  },
+  "keywords": [
+    "tk_blocks",
+    "wordpress",
+    "gutenberg",
+    "block"
+  ],
+  "author": "Sam Wyness",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/samwyness/tk_blocks/issues"
+  },
+  "homepage": "https://github.com/samwyness/tk_blocks#readme",
+  "devDependencies": {}
+}
